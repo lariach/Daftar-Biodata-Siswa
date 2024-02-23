@@ -26,9 +26,9 @@
    TTL    : Pinrang, 10 Maret 2003<br>
    Alamat : Jln. Mangkupalas RT.07 No.12<br>
  
-5. Nama   : Rifqi Permana
-   NIM    : H2020000005
-   JK     : Laki - Laki
-   Agama  : Islam
-   TTL    : Ambon, 19 Agustus 2003
-   Alamat : Jln. Jakarta RT.14 No.33
+5. Nama   : Rifqi Permana<br>
+   NIM    : H2020000005<br>
+   JK     : Laki - Laki<br>
+   Agama  : Islam<br>
+   TTL    : Ambon, 19 Agustus 2003<br>
+   Alamat : Jln. Jakarta RT.14 No.33<br>
